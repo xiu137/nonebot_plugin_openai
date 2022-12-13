@@ -6,4 +6,4 @@
 
 这个是[另一位大佬写的插件](https://github.com/Special-Week/nonebot_plugin_openai),我自己写的时候只添加了很少的功能，如果有其他需求可以去这里找找灵感。
 
-![使用案例](.\simple.png)
+![使用案例](./simple.png)
